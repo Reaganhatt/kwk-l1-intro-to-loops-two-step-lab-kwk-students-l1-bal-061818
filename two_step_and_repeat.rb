@@ -58,6 +58,8 @@ steps = 0
       puts "Right"
     end 
     sleep (0.5)
+    if steps = 6
+      break
   end
 end
   # Write a solution that uses the same code as how_many_steps?, but breaks the
